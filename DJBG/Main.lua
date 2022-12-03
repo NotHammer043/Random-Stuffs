@@ -20,7 +20,7 @@ for i, player in pairs(Players:GetPlayers()) do
 end
 
 ----- Ask Synapse to Execute this script when User hopped servers -----
-syn.queue_on_teleport("loadstring(game:HttpGet('https://github.com/NotHammer043/Random-Stuffs/raw/main/DJBG/Main.lua")
+syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Main.lua")
 
 
 ----- ServerHop -----

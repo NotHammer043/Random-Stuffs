@@ -76,5 +76,5 @@ function Teleport()
 end
 
 ----- Spam Chat -----
-wait(30)
+wait(20)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Spammer.lua'))()

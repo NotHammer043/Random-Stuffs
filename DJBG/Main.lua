@@ -23,9 +23,19 @@ end
 syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Main.lua'))()")
 
 
------ ServerHop // Look for servers, if fail then retry -----
+----- ServerHop // Look for servers, if search fails then retry -----
+-- Attempt #1 --
 loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Hop.lua'))()
-wait(1)
+wait(0.3)
+-- Attempt #2 --
 loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Hop.lua'))()
-wait(1)
+wait(0.3)
+-- Attempt #3
 loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Hop.lua'))()
+wait(0.3)
+-- Attempt #4
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Hop.lua'))()
+wait(0.3)
+-- Attempt #5
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Hop.lua'))()
+----- END -----

@@ -1,5 +1,5 @@
 ----- Wait till Game is Loaded -----
-wait(10)
+wait(15)
 
 ----- Ask Synapse to Execute this script when User hopped servers -----
 syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Main.lua'))()")

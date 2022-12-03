@@ -1,3 +1,6 @@
+----- Execute on Hop -----
+syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG.lua'))()")
+
 Players = game:GetService("Players")
 for i, player in pairs(Players:GetPlayers()) do
     game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ Cheapest jailbreak accounts on the market.","All")

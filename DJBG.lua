@@ -1,3 +1,5 @@
+wait(5)
+
 Players = game:GetService("Players")
 for i, player in pairs(Players:GetPlayers()) do
     game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ Cheapest jailbreak accounts on the market.","All")

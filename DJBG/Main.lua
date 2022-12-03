@@ -77,6 +77,3 @@ end
 
 ----- Spam Chat -----
 loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Spammer.lua'))()
-
------ Teleport to a New server -----
-Teleport()

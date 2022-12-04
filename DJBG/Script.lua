@@ -38,7 +38,7 @@ function TPReturner()
                 else
                     if tonumber(actualHour) ~= tonumber(Existing) then
                         local delFile = pcall(function()
-                            delfile("NotSameServers.json")
+                            delfile("FabataxIsGay.json")
                             AllIDs = {}
                             table.insert(AllIDs, actualHour)
                         end)
@@ -50,7 +50,7 @@ function TPReturner()
                 table.insert(AllIDs, ID)
                 wait()
                 pcall(function()
-                    writefile("NotSameServers.json", game:GetService('HttpService'):JSONEncode(AllIDs))
+                    writefile("FabataxIsGay.json", game:GetService('HttpService'):JSONEncode(AllIDs))
                     wait()
                     game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID, game.Players.LocalPlayer)
                 end)

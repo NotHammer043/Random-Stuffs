@@ -1,6 +1,5 @@
-I DO NOT OWN ANY OF THE FILES HERE!
-
-I JUST MODIFIED THE CONVERSION TO FIX THE SPEED
+I DO NOT OWN ANY OF THE FILES HERE!<br />
+I JUST MODIFIED THE CONVERSION TO FIX THE SPEED<br />
 ORIGINAL REPOSITORY: https://github.com/Stereo101/python-MidiToVirtualPianoMacro
 -------------------------------------------------------------------------------------
 

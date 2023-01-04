@@ -1,17 +1,14 @@
-Players = game:GetService("Players")
-for i, player in pairs(Players:GetPlayers()) do
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ CHEAPEST JAILBREAK ACCOUNTS ON THE MARKET.","All")
-    wait(0.5)
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ AFFORDABLE JAILBREAK ACCOUNTS.","All")
-    wait(0.5)
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ $ AND CARS FOR A LOW PRICE","All")
-    wait(2)
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ CHEAPEST JAILBREAK ACCOUNTS ON THE MARKET.","All")
-    wait(0.5)
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ AFFORDABLE JAILBREAK ACCOUNTS.","All")
-    wait(0.5)
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("dsc.gg/djbg ~ $ AND CARS FOR A LOW PRICE","All")
+task.spawn(function()
+    repeat
+        local ChatMessages = {
+            " Cheap jailbreak cash at dsc.gg/djbg",
+            " Cheapest and most legit jailbreak cash at dsc.gg/djbg",
+        }
+        game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ChatMessages[ math.random( 1,#ChatMessages ) ], "All")
+        task.wait(1.5)
+    until Bread
+end)
     ----- Teleport to a New server -----
-    wait(0.1)
+    wait(180)
     Teleport()
 end

@@ -2,7 +2,7 @@
 wait(10)
 
 ----- Ask Synapse to Execute this script when User hopped servers -----
-syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Main.lua'))()")
+syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBGONTOP/Main.lua'))()")
 
 
 ----- Look for Servers -----
@@ -76,7 +76,7 @@ function Teleport()
 end
 
 ----- Spam Chat -----
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Spammer.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBGONTOP/Spammer.lua'))()
 
 ----- Hop Servers -----
 wait(10) -- Wait 3 minutes

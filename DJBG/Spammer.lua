@@ -9,6 +9,6 @@ task.spawn(function()
     until Bread
 end)
     ----- Teleport to a New server -----
-    wait(180)
+    wait(10)
     Teleport()
 end

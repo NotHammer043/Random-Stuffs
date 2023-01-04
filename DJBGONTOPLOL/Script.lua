@@ -1,11 +1,7 @@
------ Wait till Game is Loaded -----
-wait(10)
-
 ----- Ask Synapse to Execute this script when User hopped servers -----
-syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBGONTOP/Main.lua'))()")
-
-
------ Look for Servers -----
+syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBGONTOPLOL/Main.lua'))()")
+ 
+----- Hop Servers -----
 local PlaceID = game.PlaceId
 local AllIDs = {}
 local foundAnything = ""
@@ -75,9 +71,4 @@ function Teleport()
     end
 end
 
------ Spam Chat -----
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBGONTOP/Spam.lua'))()
-
------ Hop Servers -----
-wait(10) -- Wait 3 minutes
-Teleport() -- Hop
+Teleport()

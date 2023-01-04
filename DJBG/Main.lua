@@ -79,5 +79,5 @@ end
 loadstring(game:HttpGet('https://raw.githubusercontent.com/NotHammer043/Random-Stuffs/main/DJBG/Spammer.lua'))()
 
 ----- Hop Servers -----
-wait(180) -- Wait 3 minutes
+wait(10) -- Wait 3 minutes
 Teleport() -- Hop

@@ -5,7 +5,9 @@ Alot of people are asking me "What Happened between you and Raven", I cannot exp
 I went silent for about a week but he claims that i was just on status (Imagine if i wasnt) after a while of being silent he started making threats and deleted a bunch of files and access
 
 Note to Raven: Do not try to fucking make false claims about me, i know you deleted our DMS but i still saved it and you can't do anything about it
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/d2874e61-3c6a-496d-b6f2-d017d4fef401)
+
 I tried my best to be loyal to you but you never really understood that, i chatted you everyday for a year, even in school. I was very afraid to lose you as a friend.
 
 About DJBG:

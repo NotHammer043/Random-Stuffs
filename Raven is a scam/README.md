@@ -68,14 +68,14 @@ About Hunter:
 
 
 Claims:
-Raven Claims that me and him did equal amount of work on CTP and tries to cancel the fact that i did majority of the work on CTP
+- Raven Claims that me and him did equal amount of work on CTP and tries to cancel the fact that i did majority of the work on CTP
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ae5518b6-f9a8-41d6-ae2e-aa4305d2ce5d)
 
 
-Raven Claims that the arguments already happened after CTP was made, when in reality it started happening on May 1, 2023 when i decided to voice reveal on his friend first. (tantrum alert)
+- Raven Claims that the arguments already happened after CTP was made, when in reality it started happening on May 1, 2023 when i decided to voice reveal on his friend first. (tantrum alert)
 
-Raven Claims that i maliciously added IP Logger, Bot Token Logger, Screenshot Desktop to the bot without consent and for my own use, when in reality i asked every dev if it should be added, Raven 100% agreed and i even i sent a bunch of screenshots + development of the function on the devs group chat and even on his DMS before it was released
+- Raven Claims that i maliciously added IP Logger, Bot Token Logger, Screenshot Desktop to the bot without consent and for my own use, when in reality i asked every dev if it should be added, Raven 100% agreed and i even i sent a bunch of screenshots + development of the function on the devs group chat and even on his DMS before it was released
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/debf75d2-b230-4750-a4c0-d1fd735bd508)
 

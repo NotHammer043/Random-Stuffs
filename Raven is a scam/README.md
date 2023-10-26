@@ -90,7 +90,12 @@ Raven is also trying to ruin my image on some of my friends by private messaging
 Crimsonfied knows that i am a nice guy, i helped him with everything.
 - Him trying to take advantage of Crimsonfied after hearing how good his PC is:
 
-![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/8f6a4a53-888f-4520-8e42-9b672304e09a)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ff152176-dc04-47d8-849e-c8b68a5637ee)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/0b7e59d5-c433-4a01-8272-899147ee1e54)
+
+
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/71368206-e4e1-45ac-a1e5-6d58b42dfa08)
+
 
 Crimsonfied only owed us 7k but raven wanted to take advantage more, he was going for 15k-20k which is bs
 

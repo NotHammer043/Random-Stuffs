@@ -85,7 +85,7 @@ Raven is also trying to ruin my image on some of my friends by private messaging
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/67425eb2-cf60-4474-9ad1-d0d6c9e4fcaf)
 
 Crimsonfied knows that i am a nice guy, i helped him with everything.
-Him trying to take advantage of Crimsonfied after hearing how good his PC is:
+- Him trying to take advantage of Crimsonfied after hearing how good his PC is:
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/8f6a4a53-888f-4520-8e42-9b672304e09a)
 

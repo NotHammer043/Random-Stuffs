@@ -1,5 +1,3 @@
-Raven will use you for what you have, he does not understand your (personal) issues and will always expect that you have time for him, he will always expect you to prioritize him. No matter how loyal you are he will never understand that and has 0 common sense
-
 Alot of people are asking me "What Happened between you and Raven", I cannot explain it properly because alot has happened and it lasted for months
 
 I went silent for about a week but he claims that i was just on status (Imagine if i wasnt) after a while of being silent he started making threats and deleted a bunch of files and access
@@ -147,3 +145,6 @@ Raven's Common Sense:
 
 How did i feel afterwards:
 - It took me a while to forget everything but it felt great afterwards, i finally get to take care of myself. And i also get to spend my OWN earnings.
+
+
+Raven will use you for what you have, he does not understand your (personal) issues and will always expect that you have time for him, he will always expect you to prioritize him. No matter how loyal you are he will never understand that.

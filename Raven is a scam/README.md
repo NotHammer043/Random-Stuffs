@@ -28,6 +28,10 @@ Some things that annoys me:
 He wanted to change the version from 1.2 to 1.3 with just 1 single command that i added
 And when i refused to agree on his decision he gets mad. He decided to be more stupid by going 1.21, 1.22 in big updates and blames it on me. (Honestly what the fuck is wrong with your head? its just a single fucking command that isn't even worth that much to care about. How the fuck are you expecting to change the version to a big one after one non important command)
 
+- After finishing an update, he will not let you rest. He will already plan a big update and release it the very next day
+
+The fact that you pushed the release date by a ton, i never got to test for any bugs, when we released it was day time. Everybody had a bunch of issues and since your from the other side of the world you were sleeping. I had to spend my entire day helping people and fixing bugs
+
 Raven also refuses to add more testers, he hired 5 testers which wasn't even enough, when i finish coding it and i needed people to test it, nobody is online
 He also refuses to let testers test the versions i just made
 

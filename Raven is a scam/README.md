@@ -1,4 +1,4 @@
-Raven is a dumbass, he will use you for what you have and then he will leave you, he does not understand your (personal) issues and will always expect that you have time for him, he will always expect you to prioritize him. No matter how loyal you are he will never understand that and has 0 common sense, he will make a bunch of false claims.
+Raven is a dumbass, he will use you for what you have, he does not understand your (personal) issues and will always expect that you have time for him, he will always expect you to prioritize him. No matter how loyal you are he will never understand that and has 0 common sense
 
 Alot of people are asking me "What Happened between you and Raven", I cannot explain it properly because alot has happened and it lasted for months
 

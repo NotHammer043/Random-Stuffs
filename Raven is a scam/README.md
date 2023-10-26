@@ -105,6 +105,14 @@ Me:
 Raven:
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/2cdd059d-f31e-4a47-a101-5df328de8904)
 
+Synapse: 15$ (Crypto)
+Script: 20$
+In Robux: 7k
+Total: 35$
+
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ea2a3c9c-b8cf-4962-9547-0d854d43e983)
+
+
 (Still decides to offer 15k)
 
 

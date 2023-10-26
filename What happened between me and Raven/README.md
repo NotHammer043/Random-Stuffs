@@ -1,7 +1,5 @@
 Alot of people are asking me "What Happened between you and Raven", I cannot explain it properly because alot has happened and it lasted for months
 
-I went silent for about a week but he claims that i was just on status (Imagine if i wasnt) after a while of being silent he started making threats and deleted a bunch of files and access
-
 Note to Raven: Do not try to fucking make false claims about me, i know you deleted our DMS but i still saved it and you can't do anything about it
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/d2874e61-3c6a-496d-b6f2-d017d4fef401)
@@ -145,6 +143,9 @@ Raven's Common Sense:
 
 How did i feel afterwards:
 - It took me a while to forget everything but it felt great afterwards, i finally get to take care of myself. And i also get to spend my OWN earnings.
+
+
+I went silent for about a week but he claims that i was just on status (Imagine if i wasnt) after a while of being silent he started making threats and deleted a bunch of files and access
 
 
 Raven will use you for what you have, he does not understand your (personal) issues and will always expect that you have time for him, he will always expect you to prioritize him. No matter how loyal you are he will never understand that.

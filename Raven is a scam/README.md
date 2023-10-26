@@ -30,7 +30,7 @@ About CTP:
 Some things that annoys me:
 - He keeps trying to keep making useless updates.
 He wanted to change the version from 1.2 to 1.3 with just 1 single command that i added
-And when i refused to agree on his decision he gets mad. He decided to be more stupid by going 1.21, 1.22 in big updates and blames it on me. (Honestly what the fuck is wrong with your head? its just a single fucking command that isn't even worth that much to care about. How the fuck are you expecting to change the version to a big one after one non important command)
+And when i refused to agree with his decision he gets mad. He decided to be more stupid by going 1.21, 1.22 in big updates and blames it on me. (Honestly what the fuck is wrong with your head? its just a single fucking command that isn't even worth that much to care about. How the fuck are you expecting to change the version to a big one after one non important command)
 
 - After finishing an update, he will not let you rest. He will already plan a big update and release it the very next day
 

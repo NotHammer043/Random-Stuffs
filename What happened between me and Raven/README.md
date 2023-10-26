@@ -133,7 +133,6 @@ I wonder where i made these robux i sold to buy your shit
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/a6432029-af1f-4974-a7aa-1e93173d4a82)
 
 
-
 Raven's Common Sense:
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/a3ceef6f-419c-45cf-8deb-484d600d8716)

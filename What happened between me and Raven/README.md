@@ -26,6 +26,7 @@ About CTP:
 Some things that annoys me:
 - He keeps trying to make useless updates.
 He wanted to change the version from 1.2 to 1.3 with just 1 single command that i added
+
 And when i refused to agree with his decision he gets mad. He decided to be more stupid by going 1.21, 1.22 in big updates and blames it on me. (Honestly what the fuck is wrong with your head? its just a single fucking command that isn't even worth that much to care about. How the fuck are you expecting to change the version to a big one after one non important command)
 - Raven refuses to add more beta testers, when i finished working on an update i needed people to test it out and nobody was online. I asked raven to add more beta testers but he refused to. Alot of people wanted to be beta testers but he just says "We are full"
 - He also refuses to give beta testers what they are suppost to test. He got mad at me for releasing a beta version which was literally the purpose of their role

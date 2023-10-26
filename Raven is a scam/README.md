@@ -32,14 +32,19 @@ Raven also refuses to add more testers, he hired 5 testers which wasn't even eno
 He also refuses to let testers test the versions i just made
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/85bdb706-2e63-40a5-a114-aeea5793b8f6)
-![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/9ee868e3-95f2-4f30-8b21-b60eb8f79ebb)
 
 How many times do i have to tell you that i have personal issues.
+
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/9ee868e3-95f2-4f30-8b21-b60eb8f79ebb)
+
 I already told you a bunch of times that i have personal issues but not even a day you forget about it.
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/f42fffce-b835-46d9-aa8b-3fc3d5d3219a)
 
 He says this but not even a week later he starts a new argument that doesn't make any sense
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/7e55c62d-4691-42f0-8e36-6f4361d40402)
+
 
 He also blames me for starting all these arguments, he should ask himself why these happened.
 He got upset because i was ignoring him and kept asking why are you doing this. Ask yourself.
@@ -54,32 +59,45 @@ Screenshot = To make sure it wasn't a false alert
 
 About Hunter:
 - Hunter is a innocent guy, but for some reason he got accused of putting the Malicious stuff on the code (He doesn't even have access to the bot code and he only worked on the UI). I asked raven to atleast clear his name but he refused to (Most likely because he hated him)
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/09f627a7-a522-46a2-bf41-b573b03cf3b5)
 
 
 Claims:
 Raven Claims that me and him did equal amount of work on CTP and tries to cancel the fact that i did majority of the work on CTP
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ae5518b6-f9a8-41d6-ae2e-aa4305d2ce5d)
+
 
 Raven Claims that the arguments already happened after CTP was made, when in reality it started happening on May 1, 2023 when i decided to voice reveal on his friend first. (tantrum alert)
 
 Raven Claims that i maliciously added IP Logger, Bot Token Logger, Screenshot Desktop to the bot without consent and for my own use, when in reality i asked every dev if it should be added, Raven 100% agreed and i even i sent a bunch of screenshots + development of the function on the devs group chat and even on his DMS before it was released
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/debf75d2-b230-4750-a4c0-d1fd735bd508)
 
+
 Raven is also trying to ruin my image on some of my friends by private messaging them false claims.
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/67425eb2-cf60-4474-9ad1-d0d6c9e4fcaf)
+
 Crimsonfied knows that i am a nice guy, i helped him with everything.
 
 nanoMIDI:
 - Raven took my domain "nanomidi.app". and he claims that "Its his money" I sold all my devex robux for 50$ but what you did is buy random stuffs, you spent hundreds of dollars buying minecraft hacked clients. I never spent any of the money we both earned. You spent it all.
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/8bec43c2-9a85-445f-825f-9fb67432ca06)
+
 I wonder who said this
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/8933c4fb-567c-42ac-bafe-fa3535b14c60)
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/f00ec900-7ee3-4730-8f3c-e045151e4397)
+
 I wonder where i made these robux i sold to buy your shit
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/9371fa96-9d44-4d75-b5d4-d8554591d97e)
 
 Raven's Common Sense:
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ae40e270-fab5-4715-b21b-dd258133cd7c)
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ebd5ae26-5781-440d-956c-00c9b4f908f5)
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/f870cc15-3bcc-463d-8a8c-8bb3513a75cf)

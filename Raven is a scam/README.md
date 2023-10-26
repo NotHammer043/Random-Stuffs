@@ -128,8 +128,10 @@ I wonder where i made these robux i sold to buy your shit
 
 
 Raven's Common Sense:
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/a3ceef6f-419c-45cf-8deb-484d600d8716)
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/b7860536-1336-43cb-9ec4-4fe149b441f2)
+
 (How is he suppost to know about CTP if he doesn't know CTP)
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/7542295a-fcc4-4a98-8852-31c243053011)

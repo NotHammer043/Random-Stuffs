@@ -57,10 +57,15 @@ Ask yourself these questions, not me. If you want to be a horrible friend then t
 CTP - August 6, 2023:
 
 CTP got exposed for "Malicously Logging" people, CTP's reputation got ruined not only because Tzech dickrides his partners (which hates CTP without even trying the software), but they also claimed that we were selling the data which is not true, it was only used for software protection, they also claimed that it would run when you open the software but in reality it would only run if the data sent did not match with the webserver's data
+
 What it logged and its use:
+
 IP = Ban people from the webserver
+
 Bot Token = To see who owns the bot and see the user thats trying to tamper with the software
+
 Screenshot = To make sure it wasn't a false alert
+
 
 About Hunter:
 - Hunter is a innocent guy, but for some reason he got accused of putting the Malicious stuff on the code (He doesn't even have access to the bot code and he only worked on the UI). I asked raven to atleast clear his name but he refused to (Most likely because he hated him)

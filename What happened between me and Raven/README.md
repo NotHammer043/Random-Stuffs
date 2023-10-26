@@ -119,7 +119,7 @@ Total: 35$
 
 
 nanoMIDI:
-- Raven took my domain "nanomidi.app". and he claims that "Its his money" I sold all my devex robux for 50$ but what you did is buy random stuffs, you spent hundreds of dollars buying minecraft hacked clients. I never spent any of the money we both earned. You spent it all.
+- Raven took my domain "nanomidi.app" and he claims that "Its his money" I sold all my devex robux for 50$ but what you did is buy random stuffs, you spent hundreds of dollars buying minecraft hacked clients. I never spent any of the money we both earned. You spent it all.
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/8bec43c2-9a85-445f-825f-9fb67432ca06)
 

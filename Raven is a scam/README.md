@@ -31,13 +31,12 @@ Some things that annoys me:
 - He keeps trying to keep making useless updates.
 He wanted to change the version from 1.2 to 1.3 with just 1 single command that i added
 And when i refused to agree with his decision he gets mad. He decided to be more stupid by going 1.21, 1.22 in big updates and blames it on me. (Honestly what the fuck is wrong with your head? its just a single fucking command that isn't even worth that much to care about. How the fuck are you expecting to change the version to a big one after one non important command)
+- Raven refuses to add more beta testers, when i finished working on an update i needed people to test it out and nobody was online. I asked raven to add more beta testers but he refused to. Alot of people wanted to be beta testers but he just says "We are full"
+- He also refuses to give beta testers what they are suppost to test. He got mad at me for releasing a beta version which was literally the purpose of their role
 
 - After finishing an update, he will not let you rest. He will already plan a big update and release it the very next day
 
-The fact that you pushed the release date by a ton, i never got to test for any bugs, when we released it was day time. Everybody had a bunch of issues and since your from the other side of the world you were sleeping. I had to spend my entire day helping people and fixing bugs
-
-Raven also refuses to add more testers, he hired 5 testers which wasn't even enough, when i finish coding it and i needed people to test it, nobody is online
-He also refuses to let testers test the versions i just made
+You pushed the release date by a ton that i never got to test for any bugs, when we released it was day time. Everybody had a bunch of issues and since your from the other side of the world you were sleeping. I had to spend my entire day helping people and fixing bugs
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/85bdb706-2e63-40a5-a114-aeea5793b8f6)
 

@@ -16,6 +16,7 @@ About DJBG:
 You can get it cheaper on other sites like adurite, sirhurt, and more.
 
 I did a bunch of orders but i never earned any money from it
+
 No arguments have happened during this since it was before May 1, 2023
 
 Arguments that happened:

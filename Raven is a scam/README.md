@@ -100,7 +100,6 @@ Crimsonfied knows that i am a nice guy, i helped him with everything.
 Crimsonfied only owed us 7k but raven wanted to take advantage more, he was going for 15k-20k which is bs
 
 Me:
-
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/430e6e1c-4d41-4753-9804-d17d0a87e8da)
 
 Raven:

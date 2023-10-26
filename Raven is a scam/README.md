@@ -120,7 +120,12 @@ I wonder who said this
 
 I wonder where i made these robux i sold to buy your shit
 
-![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/9371fa96-9d44-4d75-b5d4-d8554591d97e)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/91467e79-332e-4c9f-b9a2-0a6c277c5180)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/950b02ce-65b9-451d-84b7-aa84a23cd04e)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/c007e6c3-af75-48b6-8b13-fec56fe544f0)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/a6432029-af1f-4974-a7aa-1e93173d4a82)
+
+
 
 Raven's Common Sense:
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/a3ceef6f-419c-45cf-8deb-484d600d8716)

@@ -12,6 +12,9 @@ I tried my best to be loyal to you but you never really understood that, i chatt
 
 About DJBG:
 - DJBG is a "Cheap" Jailbreak Cash selling service that basically gives you an account with the specified cash that you purchased.
+- DJBG also sells robux, i remember it being 1k for 7-10$. He took advantage of one person by giving him/her more discount per 1k.
+You can get it cheaper on other sites like adurite, sirhurt, and more.
+
 I did a bunch of orders but i never earned any money from it
 No arguments have happened during this since it was before May 1, 2023
 

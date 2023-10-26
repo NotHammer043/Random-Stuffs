@@ -85,6 +85,15 @@ Raven is also trying to ruin my image on some of my friends by private messaging
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/67425eb2-cf60-4474-9ad1-d0d6c9e4fcaf)
 
 Crimsonfied knows that i am a nice guy, i helped him with everything.
+Him trying to take advantage of Crimsonfied after hearing how good his PC is:
+
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/8f6a4a53-888f-4520-8e42-9b672304e09a)
+
+Crimsonfied only owed us 7k but raven wanted to take advantage more, he was going for 15k-20k which is bs
+
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/430e6e1c-4d41-4753-9804-d17d0a87e8da)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/2cdd059d-f31e-4a47-a101-5df328de8904)
+
 
 nanoMIDI:
 - Raven took my domain "nanomidi.app". and he claims that "Its his money" I sold all my devex robux for 50$ but what you did is buy random stuffs, you spent hundreds of dollars buying minecraft hacked clients. I never spent any of the money we both earned. You spent it all.
@@ -104,6 +113,7 @@ Raven's Common Sense:
 
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ae40e270-fab5-4715-b21b-dd258133cd7c)
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ebd5ae26-5781-440d-956c-00c9b4f908f5)
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/f870cc15-3bcc-463d-8a8c-8bb3513a75cf)
 
 

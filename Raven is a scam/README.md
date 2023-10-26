@@ -27,7 +27,7 @@ About CTP:
 - Raven made the idea of CTP as a tool to farm after byfron release, from my experience, he is a horrible business partner, when i was still coding CTP he already made a very early release date which forced me to literally break my sleep schedule by a ton, when the release date he promised was there, the software wasn't even done, instead he let people preorder the software when i wasn't even done with AutoLaunch + AutoInject. This pushed me even more and even got a bunch of people mad because we had "4" devs and it was taking a while for us to finish, the reality is i was the only one coding major parts the project like AutoLaunch, AutoInject, CacheCleaner, Massconfig, and a bunch more, All Raven did was basic stuffs which anyone can do in less than 5 minutes with ChatGPT.
 
 Some things that annoys me:
-- He he keeps trying to keep making useless updates.
+- He keeps trying to keep making useless updates.
 He wanted to change the version from 1.2 to 1.3 with just 1 single command that i added
 And when i refused to agree on his decision he gets mad. He decided to be more stupid by going 1.21, 1.22 in big updates and blames it on me. (Honestly what the fuck is wrong with your head? its just a single fucking command that isn't even worth that much to care about. How the fuck are you expecting to change the version to a big one after one non important command)
 

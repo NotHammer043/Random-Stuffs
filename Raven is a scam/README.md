@@ -123,11 +123,13 @@ I wonder where i made these robux i sold to buy your shit
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/9371fa96-9d44-4d75-b5d4-d8554591d97e)
 
 Raven's Common Sense:
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/a3ceef6f-419c-45cf-8deb-484d600d8716)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/b7860536-1336-43cb-9ec4-4fe149b441f2)
+(How is he suppost to know about CTP if he doesn't know CTP)
 
-![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ae40e270-fab5-4715-b21b-dd258133cd7c)
-![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ebd5ae26-5781-440d-956c-00c9b4f908f5)
+![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/7542295a-fcc4-4a98-8852-31c243053011)
 
-![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/f870cc15-3bcc-463d-8a8c-8bb3513a75cf)
+
 
 
 How did i feel afterwards:

@@ -76,6 +76,8 @@ About Hunter:
 Claims:
 - Raven Claims that me and him did equal amount of work on CTP and tries to cancel the fact that i did majority of the work on CTP
 
+The following images were taken by Crimsonfied
+
 ![image](https://github.com/NotHammer043/Random-Stuffs/assets/107131733/ae5518b6-f9a8-41d6-ae2e-aa4305d2ce5d)
 
 - Raven Claims that the arguments already happened after CTP was made, when in reality it started happening on May 1, 2023 when i decided to voice reveal on his friend first. (tantrum alert)
